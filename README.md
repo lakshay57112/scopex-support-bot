@@ -2,7 +2,7 @@
 
 An AI support assistant for [Scopex](https://scopex.com), the zero-fee app NRIs use to send money from Europe and the US to India. It answers customer questions using only the public [Scopex Help Center](https://help.scopex.com/en), cites the article it used, and hands off to a human when it isn't sure.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://scopex-support-bot-thadgrttb8adjdohpqoifb.streamlit.app/
 
 > Unofficial side project. Not affiliated with or endorsed by Scopex. All answers come from Scopex's public help content.
 
