@@ -1,0 +1,357 @@
+[
+  {
+    "id": "about-scopex",
+    "title": "What is Scopex?",
+    "category": "About",
+    "url": "https://scopex.com/",
+    "content": "Scopex is a zero-fee money transfer platform for NRIs sending money from Europe and the US to India. It offers better exchange rates than traditional banks, with no hidden charges. Scopex was founded in 2022 and has transferred over EUR 180M for more than 70,000 NRIs. Money transfers in the EEA, UK and US are handled through regulated, licensed partners, and Scopex does not hold customer funds. Customer support is available 24/7 through live chat in the app and on the website, and through the contact page at https://scopex.com/contact-us/.",
+    "questions": [
+      "Who are you?",
+      "Tell me about this app",
+      "Is Scopex legit or a scam?"
+    ]
+  },
+  {
+    "id": "create-account",
+    "title": "How to create a Scopex account",
+    "category": "Getting Started",
+    "url": "https://help.scopex.com/en/articles/12060050-how-to-create-a-scopex-account",
+    "content": "To create an account: 1) Download the Scopex app from the Google Play Store or Apple App Store. 2) Tap Sign Up and choose Continue with Google, Continue with Apple, or Sign up with Email (email sign-up sends a verification code to your inbox). 3) Enter a referral code if you have one. If you used a friend's referral link, the code is applied automatically. 4) Tap the 'Verify Now' banner to start account verification.",
+    "questions": [
+      "How do I register?",
+      "Create new account",
+      "Can I sign up with Google or Apple?"
+    ]
+  },
+  {
+    "id": "account-verification",
+    "title": "How to complete account verification",
+    "category": "Getting Started",
+    "url": "https://help.scopex.com/en/articles/12158251-how-to-complete-your-scopex-account-verification",
+    "content": "Verification steps: 1) On the Home screen, tap the 'Verify Now' banner. 2) Phone verification: enter your mobile number and the SMS OTP. 3) Address verification: EU users enter their current European address, US users enter their current US address. 4) KYC: choose your country of residence and a supported document, upload it and take a selfie. 5) Wallet creation: after KYC is approved, tap 'Create Wallet' and set up a passkey on your device. 6) Wallet activation: tap 'Activate Wallet' and confirm with the same passkey. After the wallet is set up, new EU users receive EUR 10 and new US users receive USD 20 in their wallet.",
+    "questions": [
+      "How do I get verified?",
+      "Verify Now steps",
+      "Phone and address verification"
+    ]
+  },
+  {
+    "id": "kyc-time",
+    "title": "How long KYC verification takes",
+    "category": "Getting Started",
+    "url": "https://help.scopex.com/en/articles/12096654-how-long-does-it-usually-take-to-verify-kyc",
+    "content": "When details are clear and correct, KYC is usually verified in 2-3 minutes. Some cases need extra manual or compliance checks and can take up to an hour. If KYC is approved, you can continue to wallet creation. If KYC is rejected, the app shows the reason and lets you re-upload documents; follow the KYC submission guidelines. If KYC is still under review after more than 1 hour, contact the support team.",
+    "questions": [
+      "KYC pending for long",
+      "How much time does verification take?",
+      "KYC still under review"
+    ]
+  },
+  {
+    "id": "kyc-guidelines",
+    "title": "KYC submission do's and don'ts",
+    "category": "Getting Started",
+    "url": "https://help.scopex.com/en/articles/12096701-kyc-submission-guidelines-do-s-don-ts",
+    "content": "Do: take a clear photo of the document and a selfie in good light; keep all four edges of the document visible; make sure your full face is visible in the selfie; use an ID that is valid for at least the next 3 months. Don't: upload blurry, cropped or dark images; submit expired documents; cover your face with glasses, hands or shadows; upload soft copies or digital IDs. Only original physical documents are accepted.",
+    "questions": [
+      "Why was my KYC rejected?",
+      "Document photo not accepted",
+      "Tips for uploading ID"
+    ]
+  },
+  {
+    "id": "kyc-documents",
+    "title": "Documents supported for KYC",
+    "category": "Getting Started",
+    "url": "https://help.scopex.com/en/articles/12254707-what-documents-are-supported-for-kyc",
+    "content": "KYC is required by law for regulated remittance providers to verify identity, prevent fraud and money laundering, and keep transactions secure. Transfers cannot be processed without KYC. Documents are encrypted and only used for verification. Supported documents: in the Euro zone, an EU passport, Indian passport, residence permit or driving licence; in the United States, only US government-issued documents.",
+    "questions": [
+      "Which ID can I use?",
+      "Is a residence permit accepted?",
+      "Can I use my driving licence?"
+    ]
+  },
+  {
+    "id": "supported-currencies",
+    "title": "Supported currencies",
+    "category": "How Scopex Works",
+    "url": "https://help.scopex.com/en/articles/12588645-supported-currencies",
+    "content": "Scopex currently supports two corridors to India: Eurozone to India (EUR to INR) and United States to India (USD to INR). More currencies are planned and will be announced in the help center.",
+    "questions": [
+      "Can I send from GBP, CAD or AED?",
+      "Which countries can I send from?",
+      "Do you support other currencies?"
+    ]
+  },
+  {
+    "id": "passkey",
+    "title": "What a passkey is and how Scopex uses it",
+    "category": "How Scopex Works",
+    "url": "https://help.scopex.com/en/articles/12577429-what-is-a-passkey-how-scopex-uses-it",
+    "content": "A passkey is a password-free way to sign in: you unlock your device with fingerprint, face scan or PIN, and cryptographic keys verify your identity. Passkeys protect against weak passwords, phishing and reused credentials. Scopex creates a unique passkey on your device when you create your wallet. You authenticate with this passkey to activate your wallet and to approve every transfer, so only your device can authorise transactions.",
+    "questions": [
+      "Why do I need a passkey?",
+      "Passkey vs password"
+    ]
+  },
+  {
+    "id": "exchange-rate-google",
+    "title": "Why Scopex rates may differ from Google",
+    "category": "How Scopex Works",
+    "url": "https://help.scopex.com/en/articles/12588910-why-our-exchange-rates-may-differ-from-google",
+    "content": "Google does not offer an API for real-time exchange rates, so Scopex uses Yahoo Finance as its market rate source. Scopex fetches the rate every 5 minutes, so small differences from Yahoo Finance can appear in between updates. Scopex mentions Google in its ads because most people check rates on Google. On NRO and savings accounts Scopex advertises a rate 25 paise better than the Google rate. Live rates are always shown in the app before you confirm a transfer.",
+    "questions": [
+      "Rate not matching Google",
+      "Where do your exchange rates come from?",
+      "How often is the rate updated?"
+    ]
+  },
+  {
+    "id": "security",
+    "title": "How secure are my data and transactions?",
+    "category": "How Scopex Works",
+    "url": "https://help.scopex.com/en/articles/12595237-how-secure-are-my-data-and-transactions",
+    "content": "Scopex security features: passkey authentication tied to your device with biometric verification; end-to-end encryption of transactions and data in transit and at rest; no transfer is processed without your explicit approval with your passkey; resetting your passkey requires verifying your identity through your registered email. Scopex uses bank-grade encryption and works with regulated, licensed partners in the EEA, UK and US.",
+    "questions": [
+      "Is Scopex safe?",
+      "Is it secure to use?",
+      "Is my data protected?"
+    ]
+  },
+  {
+    "id": "unable-create-wallet",
+    "title": "Unable to create wallet",
+    "category": "Troubleshooting",
+    "url": "https://help.scopex.com/en/articles/12577401-unable-to-create-wallet",
+    "content": "Wallet creation needs a passkey. If you see 'Passkeys are not supported on this device', your device is too old to support passkeys; use a compatible device. If you see 'Use a different device or USB security key', passkeys are not enabled. On iPhone: Settings > General > Autofill Passwords and Passkeys, and select the Passwords app as the autofill provider. On Android: Settings > search 'Autofill service' > make sure Google is selected > tap 'Autofill with Google' and check the right Gmail account is listed. Then try creating the wallet again. If it still fails, talk to a support specialist.",
+    "questions": [
+      "Wallet creation failed",
+      "Can't create wallet",
+      "Use a different device or USB security key error"
+    ]
+  },
+  {
+    "id": "passkey-issues",
+    "title": "Passkey issues when activating wallet or approving a transfer",
+    "category": "Troubleshooting",
+    "url": "https://help.scopex.com/en/articles/12584821-passkey-issues-while-activating-wallet-or-approving-transfer",
+    "content": "'No passkey found' means your Scopex passkey is not on this device (deleted, device reset, or a different device). Fix: recover your wallet - open the app, tap the Profile icon (top-left of Home), choose Wallet Recovery, tap Recover then Verify, enter the OTP sent to your registered email, and create and save a new passkey in your passkey manager. Then retry activating the wallet or approving the transfer. 'Use a different device or USB security key' means passkeys are not enabled: enable them (iPhone: Settings > General > Autofill Passwords and Passkeys, Passwords app selected; Android: Autofill service set to Google), then recover your wallet and retry. Microsoft Authenticator is not supported for passkeys. On Samsung devices, save the passkey in Google Password Manager instead of Samsung Pass.",
+    "questions": [
+      "New phone, can't approve transfer",
+      "Lost my passkey",
+      "Recover wallet",
+      "Passkey not working",
+      "Reset passkey"
+    ]
+  },
+  {
+    "id": "unable-add-recipient",
+    "title": "Unable to add a recipient",
+    "category": "Troubleshooting",
+    "url": "https://help.scopex.com/en/articles/12595310-unable-to-add-recipient",
+    "content": "If you cannot add a recipient: check that the recipient's bank account is active, and check that the IFSC code is correct. If the branch recently moved or merged, its IFSC code may have changed, so confirm the latest code with the recipient or their bank. If it still fails, contact customer support.",
+    "questions": [
+      "Recipient not getting added",
+      "Error adding beneficiary",
+      "Invalid IFSC"
+    ]
+  },
+  {
+    "id": "add-recipient",
+    "title": "How to add a recipient",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12257701-how-do-i-add-a-recipient",
+    "content": "To add a recipient: open the sidebar menu from the home screen and select Recipients, tap Add New Recipient, pick an avatar and nickname, enter the recipient's IFSC code and account number, then tap Continue and Add Recipient.",
+    "questions": [
+      "Add beneficiary",
+      "Save a new bank account in India",
+      "Add family member's account"
+    ]
+  },
+  {
+    "id": "sepa-instant-standard",
+    "title": "Instant vs standard SEPA transfers",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12088270-instant-vs-standard-sepa-transfer",
+    "content": "When you pay from an EU bank, your bank may offer two SEPA types. Instant SEPA: funds usually reach Scopex within a few minutes and it works 24/7 including weekends and holidays. Standard SEPA: funds usually arrive in 1-3 business days and are processed only during banking hours (Monday-Friday, excluding holidays). If your bank does not let you choose, it decides automatically.",
+    "questions": [
+      "Why is my bank transfer slow?",
+      "Instant payment vs normal payment"
+    ]
+  },
+  {
+    "id": "transfer-limits",
+    "title": "Minimum and maximum transfer limits",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12088513-what-is-the-minimum-and-maximum-transfer-limit",
+    "content": "Minimum transfer: EUR 50 or USD 50. There is no daily limit, but the maximum per transaction is INR 4,99,999; larger amounts must be split into multiple transfers of up to INR 4,99,999 each. US accounts have ramp-up limits in the first 60 days: up to USD 1,000 per week, up to USD 2,000 total in the first 30 days, up to USD 5,000 total in the first 60 days, and limits are lifted after 60 days. For transfers above EUR 10,000, Scopex may ask for a Source of Funds (SOF) document as part of compliance checks.",
+    "questions": [
+      "Transfer limit",
+      "How much can I send?",
+      "Send a large amount",
+      "Send more than 5 lakh",
+      "Minimum amount to send",
+      "Source of funds document"
+    ]
+  },
+  {
+    "id": "bank-transfer",
+    "title": "How to make a bank transfer",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12587080-how-to-make-a-bank-transfer",
+    "content": "To send money and pay by bank transfer: 1) Tap Send Money on the home page and enter the amount. 2) If you have a promo code, tap Unlock bonus and Add. 3) Choose Bank transfer under 'Paying With' and tap Send. 4) Select the recipient and the purpose of transfer. 5) Review the details, create the transaction and tap PAY NOW. 6) Select your bank and follow the on-screen steps to pay.",
+    "questions": [
+      "How do I send money?",
+      "Pay now with my bank",
+      "Open banking payment"
+    ]
+  },
+  {
+    "id": "wallet-transfer",
+    "title": "How to make a wallet transfer",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12594249-how-to-make-a-wallet-transfer",
+    "content": "To send money using your wallet balance: 1) Tap Send Money and enter the amount. 2) Apply a promo code with Unlock bonus if you have one. 3) Choose Wallet transfer under 'Paying With' and tap Send. 4) Select the recipient and purpose of transfer. 5) Check the details and tap 'Confirm & Send with wallet'. 6) Approve with your passkey. The transfer then completes within the standard processing time.",
+    "questions": [
+      "Use wallet money",
+      "Send using my Scopex balance",
+      "Use my referral reward"
+    ]
+  },
+  {
+    "id": "fees",
+    "title": "Are there hidden or transaction fees?",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/12096539-are-there-any-hidden-or-transaction-fees",
+    "content": "Scopex transfers are free: there is no transaction fee and no hidden cost. The amount you see is the exact amount processed. The only fee mentioned in the help center is for extra refunds: one refund every three months is free, and additional refunds in the same period cost 1% of that transfer amount.",
+    "questions": [
+      "Is it free?",
+      "Do you charge commission?",
+      "Any transfer fee?"
+    ]
+  },
+  {
+    "id": "manual-transfer",
+    "title": "Manual transfer FAQ",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/14644387-manual-transfer-faq",
+    "content": "Use a manual transfer if your bank is not listed or open banking payment fails. Scopex shows you the payment details and you pay from your own bank app. Enter the exact recipient name shown on the Manual Transfer page. If your bank flags the recipient name as wrong, you can still proceed as long as the IBAN and amount are correct. If the BIC in your bank app looks different, you can ignore it; the IBAN decides where the money goes. Include the reference number if one is shown; if not, skip it. Seeing your own name as the recipient is expected, because Scopex creates a virtual IBAN in your name to link your payment to your transfer.",
+    "questions": [
+      "Pay manually from my bank app",
+      "My bank isn't listed",
+      "BIC code mismatch",
+      "Recipient name shows my name",
+      "Virtual IBAN"
+    ]
+  },
+  {
+    "id": "nre-accounts",
+    "title": "Transfers to NRE accounts",
+    "category": "Money Transfer Guide",
+    "url": "https://help.scopex.com/en/articles/15135174-transfers-to-nre-accounts-now-supported-on-scopex",
+    "content": "Scopex supports transfers to NRE, NRO and savings accounts. All are fee-free. NRE transfers get a slightly different rate: the extra 25 paise benefit applies to NRO and savings accounts but not NRE, because NRE processing costs more. The app shows a rate preview comparing NRE and NRO before you confirm, and you can use 'Change recipient' there to change the account. NRE credits arrive directly from a recognised Indian bank (ICICI, HDFC or Federal Bank), so they are compatible with NRE accounts. Transfers are international remittances, not MTSS. A FIRC (remittance proof) can only be issued by your own bank, so request it from them.",
+    "questions": [
+      "NRE vs NRO",
+      "Send to non-resident account",
+      "Remittance certificate for tax"
+    ]
+  },
+  {
+    "id": "transaction-status",
+    "title": "What each transaction status means",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12096852-what-is-the-meaning-of-each-transaction-status",
+    "content": "Send Funds From Your Bank: the rate is booked and the transaction started, but your bank payment is still pending. Verifying Your Deposited Funds: you paid and Scopex is waiting to receive the funds from your bank. Approve Transfer: funds were received and verified, and Scopex is waiting for your approval. Transfer in Process: you approved and Scopex is sending the money to the recipient. Transfer Completed: the money has been successfully remitted to the recipient.",
+    "questions": [
+      "What does my transfer status mean?",
+      "Approve transfer status",
+      "Transfer in process meaning"
+    ]
+  },
+  {
+    "id": "transfer-time",
+    "title": "How long a transfer takes after approval",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12108198-how-long-does-a-transfer-take-after-approval",
+    "content": "About 80% of transfers clear within 30 minutes of approval, and almost all complete within 24 hours of approval. Delays can happen during busy periods or when a transaction needs extra security checks. If the money has not arrived within 24 hours after Scopex received your funds, contact support.",
+    "questions": [
+      "How fast is the transfer?",
+      "When will the money reach India?",
+      "Transfer taking too long after approval"
+    ]
+  },
+  {
+    "id": "payment-not-visible",
+    "title": "Payment made but transaction not visible",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12586902-payment-made-but-transaction-not-visible",
+    "content": "EU bank payments can take time to reach Scopex depending on the transfer type. A transaction auto-expires 48 hours after you pay if Scopex has not received the funds. When the payment does arrive, it is automatically credited to your Scopex wallet, and you can use that wallet balance to create a new transaction at any time.",
+    "questions": [
+      "Paid but no transaction showing",
+      "Transaction expired after payment",
+      "Money went to my wallet instead"
+    ]
+  },
+  {
+    "id": "payment-not-verified",
+    "title": "Payment made but transaction still not verified",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12258047-i-made-the-payment-but-my-transaction-is-still-not-verified",
+    "content": "'Verifying your deposited funds' means Scopex is still waiting for your bank's payment. EU: instant payments usually arrive within 30 minutes; standard transfers can take 1-3 bank working days. US (ACH): payments are processed in batches during business hours, and batch times vary by bank. Missing a cutoff moves you to the next batch; transfers started after hours, on weekends or holidays wait for the next business day. You get an in-app notification to approve the transfer once funds arrive.",
+    "questions": [
+      "Payment still verifying",
+      "Bank payment not received by Scopex",
+      "ACH batch timing"
+    ]
+  },
+  {
+    "id": "rate-lock",
+    "title": "The rate went up - can I get the higher rate?",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12108472-the-rate-has-gone-up-can-i-still-get-the-higher-rate",
+    "content": "Scopex locks your exchange rate when you start a transfer and keeps it valid for 1 hour. You must pay within that hour, and the money must arrive within 48 hours to keep the locked rate. After payment the rate is final and cannot be changed, even if the market rate rises. This protects both sides from market swings. Tip: keep your wallet funded so you can lock a good rate immediately.",
+    "questions": [
+      "Rate lock",
+      "Can I change the rate after paying?",
+      "How long is the rate valid?"
+    ]
+  },
+  {
+    "id": "completed-not-received",
+    "title": "Transfer completed but recipient has not received the money",
+    "category": "Transaction Tracking",
+    "url": "https://help.scopex.com/en/articles/12108555-my-transaction-is-complete-but-the-recipient-hasn-t-received-the-funds-what-should-i-do",
+    "content": "Scopex marks a transfer Completed only after receiving the UTR (Unique Transaction Reference) from the bank. Sometimes the recipient's bank takes longer to credit the money, and rarely a reversal happens during bank reconciliation. What to do: wait until 12 PM the next day. If the money still has not arrived, contact Scopex support through live chat or email, and share the recipient's bank statement as a PDF covering one day before the transfer up to today.",
+    "questions": [
+      "Recipient didn't receive money",
+      "Money not credited in India",
+      "UTR number",
+      "Completed but not received"
+    ]
+  },
+  {
+    "id": "referral-program",
+    "title": "Referral program",
+    "category": "Referral Program",
+    "url": "https://help.scopex.com/en/articles/12594770-scopex-referral-program-earn-50-50",
+    "content": "Find your referral link under Profile > Refer & Earn and share it. Your friend must sign up with your link or code and complete a transfer of EUR 50 / USD 50 or more. When 3 referred friends complete qualifying transfers, you earn EUR 50 (EU) or USD 50 (US), credited to your wallet. Send the reward to a recipient with a wallet transfer. Referral rewards are non-refundable. If your friend did not use your link or code at sign-up, the referral cannot be counted. Limited-time referral campaigns may run on top of this; check the What's New section of the help center for current offers.",
+    "questions": [
+      "Refer a friend",
+      "Referral reward",
+      "Invite friends and earn"
+    ]
+  },
+  {
+    "id": "cancel-refund",
+    "title": "How to cancel a transfer and request a refund",
+    "category": "Cancellation & Refund",
+    "url": "https://help.scopex.com/en/articles/12595060-how-to-cancel-a-transfer-and-request-a-refund",
+    "content": "Refunds can only be requested before a transfer is approved; approved transfers cannot be refunded. You get one free refund every three months, covering one transaction only. Each extra refund in the same three-month period costs 1% of that transfer amount. Transfers above INR 4,99,999 are split into multiple transactions, and each counts separately for refunds. To request a refund, contact support with your Transfer ID and the reason for the refund.",
+    "questions": [
+      "Cancel transfer",
+      "Refund my money",
+      "Refund fee",
+      "Get money back"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+streamlit>=1.40
+groq>=0.30
+fastembed>=0.5
+scikit-learn>=1.4
+numpy>=1.26
